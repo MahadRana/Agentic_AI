@@ -1,0 +1,7 @@
+langgraph
+langchain
+langsmith
+ipykernel
+python-dotenv
+langchain-anthropic
+langchain-tavily
