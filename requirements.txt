@@ -5,3 +5,5 @@ ipykernel
 python-dotenv
 langchain-anthropic
 langchain-tavily
+langchain-mcp-adapters
+mcp
